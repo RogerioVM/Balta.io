@@ -1,0 +1,15 @@
+C:\projects\c#\Balta\TextEditor\bin\Debug\net6.0\TextEditor.exe
+C:\projects\c#\Balta\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+C:\projects\c#\Balta\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+C:\projects\c#\Balta\TextEditor\bin\Debug\net6.0\TextEditor.dll
+C:\projects\c#\Balta\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\TextEditor.dll
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+C:\projects\c#\Balta\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll

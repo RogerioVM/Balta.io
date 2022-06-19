@@ -1,0 +1,15 @@
+C:\projects\c#\Balta\Datas\bin\Debug\net6.0\Datas.exe
+C:\projects\c#\Balta\Datas\bin\Debug\net6.0\Datas.deps.json
+C:\projects\c#\Balta\Datas\bin\Debug\net6.0\Datas.runtimeconfig.json
+C:\projects\c#\Balta\Datas\bin\Debug\net6.0\Datas.dll
+C:\projects\c#\Balta\Datas\bin\Debug\net6.0\Datas.pdb
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\Datas.csproj.AssemblyReference.cache
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\Datas.AssemblyInfoInputs.cache
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\Datas.AssemblyInfo.cs
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\Datas.csproj.CoreCompileInputs.cache
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\Datas.dll
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\refint\Datas.dll
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\Datas.pdb
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\Datas.genruntimeconfig.cache
+C:\projects\c#\Balta\Datas\obj\Debug\net6.0\ref\Datas.dll

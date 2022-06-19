@@ -1,0 +1,15 @@
+C:\projects\c#\Balta\EditorHTML\bin\Debug\net6.0\EditorHTML.exe
+C:\projects\c#\Balta\EditorHTML\bin\Debug\net6.0\EditorHTML.deps.json
+C:\projects\c#\Balta\EditorHTML\bin\Debug\net6.0\EditorHTML.runtimeconfig.json
+C:\projects\c#\Balta\EditorHTML\bin\Debug\net6.0\EditorHTML.dll
+C:\projects\c#\Balta\EditorHTML\bin\Debug\net6.0\EditorHTML.pdb
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\EditorHTML.csproj.AssemblyReference.cache
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\EditorHTML.AssemblyInfoInputs.cache
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\EditorHTML.AssemblyInfo.cs
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\EditorHTML.dll
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\refint\EditorHTML.dll
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\EditorHTML.pdb
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\EditorHTML.genruntimeconfig.cache
+C:\projects\c#\Balta\EditorHTML\obj\Debug\net6.0\ref\EditorHTML.dll
